@@ -21,7 +21,7 @@ Na época do curso, a interface do Instagram era diferente. Por isso, decidi apr
 
 ---
 
-## 🖼️ Tela
+## 🔍 Tela
 
 <img width="1365" height="766" alt="Image" src="https://github.com/user-attachments/assets/b63e8a62-b7e1-4be0-aab2-4bdef617913f" />
 
